@@ -35,6 +35,47 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 - __*Apr.2024*__:  We made the [cover](https://royalsocietypublishing.org/toc/rspa/2024/480/2287) of _Proceedings of the Royal Society A_.
 - __*Apr.2024*__:  Our [reserach article](https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0956) "_Axisymmetric blockfold origami: a non-flat-foldable Miura variant with self-locking mechanisms and enhanced stiffness_" was published in _Proceedings of the Royal Society A_.
 
+<span class='anchor' id='research'></span>
+# Research 
+
+Two-dimensional irregular reconfigurable systems
+-----
+
+- __Rigidly deployable planar kirigami structures.__
+
+&emsp;<img src="/files/images/planar_kirigami.png" width="400">
+
+- __Bistable spherical kirigami structures.__
+
+&emsp;<img src="/files/images/spherical_kirigami.png" width="400">
+
+Systems shifting from two-dimensional to three-dimensional configurations
+-----
+
+- __“Folded kirigami” metamaterials.__
+
+&emsp;<img src="/files/images/folded_kirigami.png" width="600">
+
+- __Self-locking axisymmetric origami structures.__
+
+&emsp;<img src="/files/images/abo.png" width="300">
+
+- __Rigidly and flat foldable origami structures.__
+  
+&emsp;<img src="/files/images/rffqm_origami.png" width="600">
+
+Three-dimensional irregular reconfigurable systems
+-----
+
+- __Bistable closed-surface assemblies.__
+
+&emsp;<img src="/files/images/csk.png" width="600">
+
+- __Modular chiral origami mechanical metamaterials.__
+
+&emsp;<img src="/files/images/nature_simu.png" width="600">
+
+
 <span class='anchor' id='publications'></span>
 # Publications 
 
