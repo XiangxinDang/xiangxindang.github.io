@@ -76,8 +76,6 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 &emsp;<img src="/images/nature_cover.png" width="600">
 
-<br/>
-
 <span class='anchor' id='publications'></span>
 # Publications 
 
