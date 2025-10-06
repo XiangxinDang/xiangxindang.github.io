@@ -38,7 +38,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 <span class='anchor' id='research'></span>
 # Research 
 
-### Two-dimensional irregular reconfigurable systems
+### 1. Two-dimensional irregular reconfigurable systems
 
 - __Rigidly deployable planar kirigami structures.__
 
@@ -48,9 +48,9 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 &emsp;<img src="/images/spherical_kirigami.png" width="400">
 
-<br/><br/>
+<br/>
 
-### Systems shifting from two-dimensional to three-dimensional configurations
+### 2. Systems shifting from two-dimensional to three-dimensional configurations
 
 - __“Folded kirigami” metamaterials.__
 
@@ -64,9 +64,9 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
   
 &emsp;<img src="/images/rffqm_origami.png" width="600">
 
-<br/><br/>
+<br/>
 
-### Three-dimensional irregular reconfigurable systems
+### 3. Three-dimensional irregular reconfigurable systems
 
 - __Bistable closed-surface assemblies.__
 
@@ -105,8 +105,8 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 ### Employment
 
-* Postdoctoral Research Associate, Princeton University, 2023 -- Present
-* Postdoctoral Researcher, McGill University, 2022 -- 2023
+* Postdoctoral Research Associate, Princeton University, 2023 - Present
+* Postdoctoral Researcher, McGill University, 2022 - 2023
   
 ### Awards
 
