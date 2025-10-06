@@ -38,8 +38,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 <span class='anchor' id='research'></span>
 # Research 
 
-Two-dimensional irregular reconfigurable systems
------
+### Two-dimensional irregular reconfigurable systems
 
 - __Rigidly deployable planar kirigami structures.__
 
@@ -49,8 +48,9 @@ Two-dimensional irregular reconfigurable systems
 
 &emsp;<img src="/images/spherical_kirigami.png" width="400">
 
-Systems shifting from two-dimensional to three-dimensional configurations
------
+<br/><br/>
+
+### Systems shifting from two-dimensional to three-dimensional configurations
 
 - __“Folded kirigami” metamaterials.__
 
@@ -64,8 +64,9 @@ Systems shifting from two-dimensional to three-dimensional configurations
   
 &emsp;<img src="/images/rffqm_origami.png" width="600">
 
-Three-dimensional irregular reconfigurable systems
------
+<br/><br/>
+
+### Three-dimensional irregular reconfigurable systems
 
 - __Bistable closed-surface assemblies.__
 
@@ -75,6 +76,7 @@ Three-dimensional irregular reconfigurable systems
 
 &emsp;<img src="/images/nature_simu.png" width="600">
 
+<br/>
 
 <span class='anchor' id='publications'></span>
 # Publications 
@@ -96,18 +98,18 @@ Three-dimensional irregular reconfigurable systems
 <span class='anchor' id='bio'></span>
 # Biography
 
-Education
------
+### Education
+
 * Ph.D in Solid Mechanics, Peking University, 2022
 * B.Eng. in Engineering Mechanics, Peking University, 2017
 
-Employment
------
+### Employment
+
 * Postdoctoral Research Associate, Princeton University, 2023 -- Present
 * Postdoctoral Researcher, McGill University, 2022 -- 2023
   
-Awards
------
+### Awards
+
 * Future Faculty Symposium Travel Award, SES Annual Technical Meeting (2025)
 * Merit Student, Peking University (2021)
 *	Dean Scholarship, College of Engineering, Peking University (2021)
