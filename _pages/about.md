@@ -42,13 +42,13 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 - __Rigidly deployable planar kirigami structures.__
 
-&emsp;<img src="/images/planar_kirigami.png" width="400">
+&emsp;<img src="/images/planar_kirigami.png" width="500">
 
 <br/>
 
 - __Bistable spherical kirigami structures.__
 
-&emsp;<img src="/images/spherical_kirigami.png" width="400">
+&emsp;<img src="/images/spherical_kirigami.png" width="500">
 
 <br/>
 
@@ -56,19 +56,19 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 - __“Folded kirigami” metamaterials.__
 
-&emsp;<img src="/images/folded_kirigami.png" width="600">
+&emsp;<img src="/images/folded_kirigami.png" width="500">
 
 <br/>
 
 - __Self-locking axisymmetric origami structures.__
 
-&emsp;<img src="/images/abo.png" width="600">
+&emsp;<img src="/images/abo.png" width="500">
 
 <br/>
 
 - __Rigidly and flat foldable origami structures.__
   
-&emsp;<img src="/images/rffqm_origami_2.png" width="600">
+&emsp;<img src="/images/rffqm_origami_2.png" width="500">
 
 <br/>
 
@@ -76,13 +76,13 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 - __Bistable closed-surface assemblies.__
 
-&emsp;<img src="/images/csk.png" width="600">
+&emsp;<img src="/images/csk.png" width="500">
 
 <br/>
 
 - __Modular chiral origami mechanical metamaterials.__
 
-&emsp;<img src="/images/nature_cover_2.png" width="600">
+&emsp;<img src="/images/nature_cover_2.png" width="500">
 
 <br/>
 
