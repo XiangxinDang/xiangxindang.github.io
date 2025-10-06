@@ -58,7 +58,7 @@ Systems shifting from two-dimensional to three-dimensional configurations
 
 - __Self-locking axisymmetric origami structures.__
 
-&emsp;<img src="/images/abo.png" width="300">
+&emsp;<img src="/images/abo.png" width="600">
 
 - __Rigidly and flat foldable origami structures.__
   
