@@ -44,6 +44,8 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 &emsp;<img src="/images/planar_kirigami.png" width="400">
 
+<br/>
+
 - __Bistable spherical kirigami structures.__
 
 &emsp;<img src="/images/spherical_kirigami.png" width="400">
@@ -56,9 +58,13 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 &emsp;<img src="/images/folded_kirigami.png" width="600">
 
+<br/>
+
 - __Self-locking axisymmetric origami structures.__
 
 &emsp;<img src="/images/abo.png" width="600">
+
+<br/>
 
 - __Rigidly and flat foldable origami structures.__
   
@@ -72,9 +78,13 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 &emsp;<img src="/images/csk.png" width="600">
 
+<br/>
+
 - __Modular chiral origami mechanical metamaterials.__
 
 &emsp;<img src="/images/nature_cover_2.png" width="600">
+
+<br/>
 
 <span class='anchor' id='publications'></span>
 # Publications 
