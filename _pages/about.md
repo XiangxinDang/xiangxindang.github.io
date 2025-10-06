@@ -114,3 +114,7 @@ Awards
 * Presidential Scholarship, Peking University (2018, 2017)
 * Excellent Graduate, Peking University (2017)
 * Award for Academic Excellence, Peking University (2016, 2015)
+
+<span class='anchor' id='contact'></span>
+# Contact
+Email: [xd7191@princeton.edu](xd7191@princeton.edu)
