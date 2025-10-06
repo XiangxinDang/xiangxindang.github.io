@@ -93,18 +93,24 @@ Three-dimensional irregular reconfigurable systems
 -	Xiangxin Dang, Yingjie Liu, Linjuan Wang, Jianxiang Wang, __Solutions of the elastic fields in a half-plane region containing multiple inhomogeneities with the equivalent inclusion method and the applications to properties of composites__, [Acta Mechanica](https://link.springer.com/article/10.1007/s00707-018-2340-y) 230, 1529–1547 (2019). \[[PDF](/files/actamech2019.pdf)\]
 
 
+<span class='anchor' id='bio'></span>
+# Biography
+Education
+-----
+* Ph.D in Solid Mechanics, Peking University, 2022
+* B.Eng. in Engineering Mechanics, Peking University, 2017
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-<!--# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+Work experience
+-----
+* Postdoctoral Research Associate, Princeton University, 2023 -- Present
+* Postdoctoral Researcher, McGill University, 2022 -- 2023
+  
+Awards
+-----
+* Future Faculty Symposium Travel Award, SES Annual Technical Meeting (2025)
+* Merit Student, Peking University (2021)
+*	Dean Scholarship, College of Engineering, Peking University (2021)
+*	Award for Scientific Research, Peking University (2019)
+* Presidential Scholarship, Peking University (2018, 2017)
+* Excellent Graduate, Peking University (2017)
+* Award for Academic Excellence, Peking University (2016, 2015)
