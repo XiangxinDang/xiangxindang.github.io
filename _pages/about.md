@@ -100,7 +100,7 @@ Education
 * Ph.D in Solid Mechanics, Peking University, 2022
 * B.Eng. in Engineering Mechanics, Peking University, 2017
 
-Work experience
+Employment
 -----
 * Postdoctoral Research Associate, Princeton University, 2023 -- Present
 * Postdoctoral Researcher, McGill University, 2022 -- 2023
