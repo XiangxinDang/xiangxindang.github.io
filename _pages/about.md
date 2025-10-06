@@ -17,51 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Postdoctoral Research Associate from [the Department of Civil and Environmental Engineering](https://cee.princeton.edu), [Princeton University](https://www.princeton.edu), where I work with [Prof. Glaucio H. Paulino](https://paulino.princeton.edu). My research vision is to advance the design and manufacture of reconfigurable structural systems whose function (e.g., kinematic and mechanical properties) is dominated by form (e.g., geometry and topology) rather than material composition, ultimately transforming approaches to efficient and secure advanced manufacturing for the next generation. I aim to establish the geometric mechancis that enable theory-driven design, efficient simulation, reliable fabrication, and controlled actuation of reconfigurable structures and metamaterials, particularly those that are three-dimensional, irregular, and super-modular.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-# News
-
-- **\[Sep.2025\]** Our [review paper](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/77/5/050801/1217544/Kirigami-Engineering-The-Interplay-Between?redirectedFrom=fulltext) "_Kirigami Engineering: The Interplay Between Geometry and Mechanics_" was published in _Applied Mechanics Reviews_.
-- **\[Jun.2025\]** I received the Future Faculty Symposium Travel Award from the [2025 SES Annual Technical Meeting](https://sites.gatech.edu/2025ses/).
-- **\[Apr.2025\]** Princeton Engineering [reported](https://engineering.princeton.edu/news/2025/04/23/material-robot-its-metabot) our modular chiral origami metamaterials.
-- **\[Apr.2025\]** Nature [reported](https://www.nature.com/articles/d41586-025-01131-x) our modular chiral origami metamaterials.
-- **\[Apr.2025\]** Nature published a [video](https://www.nature.com/articles/d41586-025-01284-9) for our modular chiral origami metamaterials.
-- **\[Apr.2025\]** Our [research article](https://www.nature.com/articles/s41586-025-08851-0) "_Modular Chiral Origami Metamaterials_" was published in _Nature_.
-- **\[Apr.2025\]** Our [research article](https://www.science.org/doi/10.1126/sciadv.ads5659) "_Shape and topology morphing of closed surfaces integrating origami and kirigami_" was published in _Science Advances_.
-- **\[Jan.2025\]** Princeton Engineering [reported](https://engineering.princeton.edu/news/2025/01/21/single-paper-sheet-engineers-make-dancing-structures-direct-light-and-sound) our _folded kirigami_.
-- **\[Dec.2024\]** PNAS published a [commentary](https://www.pnas.org/doi/full/10.1073/pnas.2420375121) on our _folded kirigami_.
-- **\[Nov.2024\]** Our [reserach article](https://www.pnas.org/doi/10.1073/pnas.2413370121) "_Folding a single high-genus surface into a repertoire of metamaterial functionalities_" was published in _Proceedings of the National Academy of Sciences_.
-- **\[Apr.2024\]** We made the [cover](https://royalsocietypublishing.org/toc/rspa/2024/480/2287) of _Proceedings of the Royal Society A_.
-- **\[Apr.2024\]** Our [reserach article](https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0956) "_Axisymmetric blockfold origami: a non-flat-foldable Miura variant with self-locking mechanisms and enhanced stiffness_" was published in _Proceedings of the Royal Society A_.
- 
-
-# Publications 
-
--	Xiangxin Dang, Glaucio H. Paulino, __Kirigami engineering: The interplay between geometry and mechanics__, [Applied Mechanics Reviews](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/77/5/050801/1217544/Kirigami-Engineering-The-Interplay-Between?redirectedFrom=fulltext) 77, 050801 (2025). \[[PDF](/files/amr2025.pdf)\]
--	Xiangxin Dang, Shujia Chen, Ali Elias Acha, Lei Wu, Damiano Pasini, __Shape and topology morphing of closed surfaces integrating origami and kirigami__, [Science Advances](https://www.science.org/doi/10.1126/sciadv.ads5659) 11, eads5659 (2025). \[[PDF](/files/sa2025.pdf)\]
--	Tuo Zhao\*, Xiangxin Dang\*, Konstantinos Manos, Shixi Zang, Jyotirmoy Mandal, Minjie Chen, Glaucio H. Paulino, __Modular chiral origami metamaterials__, [Nature](https://www.nature.com/articles/s41586-025-08851-0) 640, 931–940 (*_Contributed equally_) (2025). 
--	Xiangxin Dang, Stefano Gonella, Glaucio H. Paulino, __Folding a single high-genus surface into a repertoire of metamaterial functionalities__, [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/10.1073/pnas.2413370121) 121(46), e2413370121 (2024).
--	Xiangxin Dang, Glaucio H. Paulino, __Axisymmetric blockfold origami: a non-flat-foldable Miura variant with self-locking mechanisms and enhanced stiffness__, [Proceedings of the Royal Society A](https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0956) 480, 20230956 (2024). \[[PDF](/files/prsa2024.pdf)\] \[[Cover Image](/files/RSPA_480_2287_OFC.pdf)\]
--	Xiangxin Dang, Lu Lu, Huiling Duan, Jianxiang Wang, __Deployment kinematics of axisymmetric Miura origami: Unit cells, tessellations, and stacked metamaterials__, [International Journal of Mechanical Sciences](https://www.sciencedirect.com/science/article/abs/pii/S0020740322005021?via%3Dihub) 232, 107615 (2022). \[[PDF](/files/ijms2022.pdf)\]
--	Xiangxin Dang, Fan Feng, Huiling Duan, Jianxiang Wang, __Theorem on the compatibility of spherical kirigami tessellations__, [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.035501) 128, 035501 (2022). \[[PDF](/files/prl2022.pdf)\]
--	Lu Lu, Xiangxin Dang, Fan Feng, Pengyu Lv, Huiling Duan, __Conical Kresling origami and its applications to curvature and energy programming__, [Proceedings of the Royal Society A](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0712) 478, 20210712 (2022). \[[PDF](/files/prsa2022.pdf)\]
--	Xiangxin Dang, Fan Feng, Paul Plucinsky, Richard D. James, Huiling Duan, Jianxiang Wang, __Inverse design of deployable origami structures that approximate a general surface__, [International Journal of Solids and Structures](https://www.sciencedirect.com/science/article/pii/S0020768321003127) 234–235, 111224 (2022). \[[PDF](/files/ijss2022.pdf)\]
--	Xiangxin Dang, Fan Feng, Huiling Duan, Jianxiang Wang, __Theorem for the design of deployable kirigami tessellations with different topologies__, [Physical Review E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.055006) 104, 055006 (2021). \[[PDF](/files/pre2021.pdf)\]
--	Fan Feng, Xiangxin Dang, Richard D. James, Paul Plucinsky, __The designs and deformations of rigidly and flat-foldable quadrilateral mesh origami__, [Journal of the Mechanics and Physics of Solids](https://www.sciencedirect.com/science/article/abs/pii/S0022509620302532) 142, 104018 (2020). \[[PDF](/files/jmps2020.pdf)\]
--	Xiangxin Dang, Yingjie Liu, Linjuan Wang, Jianxiang Wang, __Solutions of the elastic fields in a half-plane region containing multiple inhomogeneities with the equivalent inclusion method and the applications to properties of composites__, [Acta Mechanica](https://link.springer.com/article/10.1007/s00707-018-2340-y) 230, 1529–1547 (2019). \[[PDF](/files/actamech2019.pdf)\]
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🎖 Awards
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-* Future Faculty Symposium Travel Award, SES Annual Technical Meeting (2025)
-* Merit Student, Peking University (2021)
-*	Dean Scholarship, College of Engineering, Peking University (2021)
-*	Award for Scientific Research, Peking University (2019)
-* Presidential Scholarship, Peking University (2018, 2017)
-* Excellent Graduate, Peking University (2017)
-* Award for Academic Excellence, Peking University (2016, 2015)
+# 📝 Publications 
 
-# 📖 Education
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-* Ph.D in Solid Mechanics, Peking University, 2022
-* B.Eng. in Engineering Mechanics, Peking University, 2017
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
