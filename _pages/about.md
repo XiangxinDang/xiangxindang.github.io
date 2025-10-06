@@ -20,7 +20,7 @@ redirect_from:
 Welcome to my personal website! I'm a Postdoctoral Research Associate from [the Department of Civil and Environmental Engineering](https://cee.princeton.edu), [Princeton University](https://www.princeton.edu), where I work with [Prof. Glaucio H. Paulino](https://paulino.princeton.edu). My research vision is to advance the design and manufacture of reconfigurable structural systems whose function (e.g., kinematic and mechanical properties) is dominated by form (e.g., geometry and topology) rather than material composition, ultimately transforming approaches to efficient and secure advanced manufacturing for the next generation. I aim to establish the geometric mechancis that enable theory-driven design, efficient simulation, reliable fabrication, and controlled actuation of reconfigurable structures and metamaterials, particularly those that are three-dimensional, irregular, and super-modular.
 
 
-# 🔥 News
+# News
 - __*Sep.2025*__:  Our [review paper](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/77/5/050801/1217544/Kirigami-Engineering-The-Interplay-Between?redirectedFrom=fulltext) "_Kirigami Engineering: The Interplay Between Geometry and Mechanics_" was published in _Applied Mechanics Reviews_.
 - __*Jun.2025*__:  I received the Future Faculty Symposium Travel Award from the [2025 SES Annual Technical Meeting](https://sites.gatech.edu/2025ses/).
 - __*Apr.2025*__:  Princeton Engineering [reported](https://engineering.princeton.edu/news/2025/04/23/material-robot-its-metabot) our modular chiral origami metamaterials.
