@@ -56,7 +56,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 - __“Folded kirigami” metamaterials.__
 
-&emsp;<img src="/images/folded_kirigami.png" width="500">
+&emsp;<img src="/images/folded_kirigami.png" width="700">
 
 <br/>
 
