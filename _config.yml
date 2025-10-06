@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiangxin Dang"
-description              : "Postdoctoral Research Associate at Princeton University"
+description              : #""
 repository               : "XiangxinDang/xiangxindang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiangxin Dang"
   avatar           : "images/profile_2.jpg"
-  bio              : "bio"
-  location         : "Princeton, NJ"
-  employer         : "Princeton University"
+  bio              : "Postdoctoral Research Associate at Princeton University"
+  location         : #"Princeton, NJ"
+  employer         : #"Princeton University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WK1TP2IAAAAJ&hl=en"
   email            : "xd7191@princeton.edu"
