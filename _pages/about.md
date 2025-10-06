@@ -95,6 +95,7 @@ Three-dimensional irregular reconfigurable systems
 
 <span class='anchor' id='bio'></span>
 # Biography
+
 Education
 -----
 * Ph.D in Solid Mechanics, Peking University, 2022
