@@ -14,3 +14,6 @@ main:
 
   - title: "Biography"
     url: "/#bio"
+
+  - title: "Contact"
+    url: "/#contact"
