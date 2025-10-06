@@ -15,11 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about'></span>
 
 Welcome to my personal website! I'm a Postdoctoral Research Associate from [the Department of Civil and Environmental Engineering](https://cee.princeton.edu), [Princeton University](https://www.princeton.edu), where I work with [Prof. Glaucio H. Paulino](https://paulino.princeton.edu). My research vision is to advance the design and manufacture of reconfigurable structural systems whose function (e.g., kinematic and mechanical properties) is dominated by form (e.g., geometry and topology) rather than material composition, ultimately transforming approaches to efficient and secure advanced manufacturing for the next generation. I aim to establish the geometric mechancis that enable theory-driven design, efficient simulation, reliable fabrication, and controlled actuation of reconfigurable structures and metamaterials, particularly those that are three-dimensional, irregular, and super-modular.
 
-
+<span class='anchor' id='news'></span>
 # News
 - __*Sep.2025*__:  Our [review paper](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/77/5/050801/1217544/Kirigami-Engineering-The-Interplay-Between?redirectedFrom=fulltext) "_Kirigami Engineering: The Interplay Between Geometry and Mechanics_" was published in _Applied Mechanics Reviews_.
 - __*Jun.2025*__:  I received the Future Faculty Symposium Travel Award from the [2025 SES Annual Technical Meeting](https://sites.gatech.edu/2025ses/).
@@ -34,7 +34,8 @@ Welcome to my personal website! I'm a Postdoctoral Research Associate from [the 
 - __*Apr.2024*__:  We made the [cover](https://royalsocietypublishing.org/toc/rspa/2024/480/2287) of _Proceedings of the Royal Society A_.
 - __*Apr.2024*__:  Our [reserach article](https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0956) "_Axisymmetric blockfold origami: a non-flat-foldable Miura variant with self-locking mechanisms and enhanced stiffness_" was published in _Proceedings of the Royal Society A_.
 
-# 📝 Publications 
+<span class='anchor' id='publications'></span>
+# Publications 
 
 -	Xiangxin Dang, Glaucio H. Paulino, __Kirigami engineering: The interplay between geometry and mechanics__, [Applied Mechanics Reviews](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/77/5/050801/1217544/Kirigami-Engineering-The-Interplay-Between?redirectedFrom=fulltext) 77, 050801 (2025). \[[PDF](/files/amr2025.pdf)\]
 -	Xiangxin Dang, Shujia Chen, Ali Elias Acha, Lei Wu, Damiano Pasini, __Shape and topology morphing of closed surfaces integrating origami and kirigami__, [Science Advances](https://www.science.org/doi/10.1126/sciadv.ads5659) 11, eads5659 (2025). \[[PDF](/files/sa2025.pdf)\]
