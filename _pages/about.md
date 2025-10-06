@@ -74,7 +74,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 - __Modular chiral origami mechanical metamaterials.__
 
-&emsp;<img src="/images/nature_cover.png" width="600">
+&emsp;<img src="/images/nature_cover_2.png" width="600">
 
 <span class='anchor' id='publications'></span>
 # Publications 
