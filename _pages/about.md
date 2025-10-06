@@ -40,42 +40,26 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 Two-dimensional irregular reconfigurable systems
 -----
-
 - __Rigidly deployable planar kirigami structures.__
-
 &emsp;<img src="/images/planar_kirigami.png" width="400">
-
 - __Bistable spherical kirigami structures.__
-
 &emsp;<img src="/images/spherical_kirigami.png" width="400">
 
 Systems shifting from two-dimensional to three-dimensional configurations
 -----
-
 - __“Folded kirigami” metamaterials.__
-
 &emsp;<img src="/images/folded_kirigami.png" width="600">
-
 - __Self-locking axisymmetric origami structures.__
-
 &emsp;<img src="/images/abo.png" width="300">
-
 - __Rigidly and flat foldable origami structures.__
-  
 &emsp;<img src="/images/rffqm_origami.png" width="600">
 
 Three-dimensional irregular reconfigurable systems
 -----
-
 - __Bistable closed-surface assemblies.__
-
 &emsp;<img src="/images/csk.png" width="600">
-
 - __Modular chiral origami mechanical metamaterials.__
-
 &emsp;<img src="/images/nature_simu.png" width="600">
-
-
 
 <span class='anchor' id='publications'></span>
 # Publications 
