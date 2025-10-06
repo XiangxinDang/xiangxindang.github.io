@@ -62,7 +62,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 - __Rigidly and flat foldable origami structures.__
   
-&emsp;<img src="/images/rffqm_origami.png" width="600">
+&emsp;<img src="/images/rffqm_origami_2.png" width="600">
 
 <br/>
 
@@ -74,7 +74,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 - __Modular chiral origami mechanical metamaterials.__
 
-&emsp;<img src="/images/nature_simu.png" width="600">
+&emsp;<img src="/images/nature_cover.png" width="600">
 
 <br/>
 
