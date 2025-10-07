@@ -60,7 +60,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 <br/>
 
-- __*Self-locking axisymmetric origami structures.*__
+- __*Axisymmetric origami structures.*__
 
 &emsp;<img src="/images/abo.png" width="500">
 
