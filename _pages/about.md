@@ -38,7 +38,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 <span class='anchor' id='research'></span>
 # Research 
 
-### 1. Two-dimensional irregular reconfigurable systems
+## 1. Two-dimensional irregular reconfigurable systems
 
 - __Rigidly deployable planar kirigami structures.__
 
@@ -52,7 +52,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 <br/>
 
-### 2. Systems shifting from two-dimensional to three-dimensional configurations
+## 2. Systems shifting from two-dimensional to three-dimensional configurations
 
 - __“Folded kirigami” metamaterials.__
 
@@ -72,7 +72,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 <br/>
 
-### 3. Three-dimensional irregular reconfigurable systems
+## 3. Three-dimensional irregular reconfigurable systems
 
 - __Bistable closed-surface assemblies.__
 
