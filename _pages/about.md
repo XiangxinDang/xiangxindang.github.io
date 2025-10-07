@@ -40,13 +40,13 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 ### 1. Two-dimensional irregular reconfigurable systems
 
-- __*Rigidly deployable planar kirigami structures.*__
+- __*Rigidly deployable planar kirigami structures*__
 
 &emsp;<img src="/images/planar_kirigami.png" width="500">
 
 <br/>
 
-- __*Bistable spherical kirigami structures.*__
+- __*Bistable spherical kirigami structures*__
 
 &emsp;<img src="/images/spherical_kirigami.png" width="500">
 
@@ -54,19 +54,19 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 ### 2. Systems shifting from two-dimensional to three-dimensional configurations
 
-- __*“Folded kirigami” metamaterials.*__
+- __*“Folded kirigami” metamaterials*__
 
 &emsp;<img src="/images/folded_kirigami.png" width="700">
 
 <br/>
 
-- __*Axisymmetric origami structures.*__
+- __*Axisymmetric origami structures*__
 
 &emsp;<img src="/images/abo.png" width="500">
 
 <br/>
 
-- __*Rigidly and flat foldable origami structures.*__
+- __*Rigidly and flat foldable origami structures*__
   
 &emsp;<img src="/images/rffqm_origami_2.png" width="500">
 
@@ -74,13 +74,13 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 ### 3. Three-dimensional irregular reconfigurable systems
 
-- __*Bistable closed-surface assemblies.*__
+- __*Bistable closed-surface assemblies*__
 
 &emsp;<img src="/images/csk.png" width="500">
 
 <br/>
 
-- __*Modular chiral origami mechanical metamaterials.*__
+- __*Modular chiral origami mechanical metamaterials*__
 
 &emsp;<img src="/images/nature_cover_2.png" width="500">
 
