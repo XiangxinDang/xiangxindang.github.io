@@ -23,7 +23,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 <span class='anchor' id='news'></span>
 # News
 - __*Oct.2025*__:  I gave the [oral presentation](/images/SES_2025_v5.jpg) _"'Folded kirigami' to flexible mechanical metamaterials"_ at the Society of Engineering Science 2025 Annual Technical Meeting in Atlanta.
-- __*Oct.2025*__:  I presented the poster _"Geometric mechanics of reconfigurable structural systems"_ at the Society of Engineering Science 2025 Annual Technical Meeting Future Faculty Symposium in Atlanta.
+- __*Oct.2025*__:  I presented the [poster](/images/ffs2025.png) _"Geometric mechanics of reconfigurable structural systems"_ at the Society of Engineering Science 2025 Annual Technical Meeting Future Faculty Symposium in Atlanta.
 - __*Sep.2025*__:  Our [review paper](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/77/5/050801/1217544/Kirigami-Engineering-The-Interplay-Between?redirectedFrom=fulltext) _"Kirigami engineering: The interplay between geometry and mechanics"_ was published in _Applied Mechanics Reviews_.
 - __*Jun.2025*__:  I received the Future Faculty Symposium Travel Award from the [2025 SES Annual Technical Meeting](https://sites.gatech.edu/2025ses/).
 - __*Apr.2025*__:  Princeton Engineering [reported](https://engineering.princeton.edu/news/2025/04/23/material-robot-its-metabot) our modular chiral origami metamaterials.
