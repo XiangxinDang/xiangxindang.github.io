@@ -105,6 +105,24 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 -	Xiangxin Dang, Yingjie Liu, Linjuan Wang, Jianxiang Wang, __Solutions of the elastic fields in a half-plane region containing multiple inhomogeneities with the equivalent inclusion method and the applications to properties of composites__, [_Acta Mechanica_](https://link.springer.com/article/10.1007/s00707-018-2340-y) 230, 1529–1547 (2019). \[[PDF](/files/actamech2019.pdf)\]
 
 
+<span class='anchor' id='talks'></span>
+# Talks
+### __*Oct.2025*__:  _"Folded kirigami" to flexible mechanical metamaterials,_ Society of Engineering Science 2025 Annual Technical Meeting, Atlanta, GA.
+&emsp;<img src="/images/SES 2025_v5.jpg" width="1000">
+
+<br/>
+
+### __*Jun.2025*__:  _Geometric mechanics for reconfigurable structural systems across scales,_ Mechanical and Aerospace Engineering Research Seminar, Nanyang Technological University.
+&emsp;<img src="/images/NTU Seminar.jpg" width="1000">
+
+<br/>
+
+### __*Nov.2024*__:  _Topological polarization and non-reciprocity of origami mechanical metamaterials,_ Duke Advanced Multifunctional Metamaterials Workshops 2024, Duke University, Durham, NC.
+&emsp;<img src="/images/Duke_Nov_19.jpg" width="1000">
+
+<br/>
+
+
 <span class='anchor' id='bio'></span>
 # Biography
 
