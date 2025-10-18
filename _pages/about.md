@@ -22,18 +22,20 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 <span class='anchor' id='news'></span>
 # News
-- __*Sep.2025*__:  Our [review paper](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/77/5/050801/1217544/Kirigami-Engineering-The-Interplay-Between?redirectedFrom=fulltext) "_Kirigami engineering: The interplay between geometry and mechanics_" was published in _Applied Mechanics Reviews_.
+- __*Oct.2025*__:  I gave the oral presentation _"'Folded kirigami' to flexible mechanical metamaterials"_ at the Society of Engineering Science 2025 Annual Technical Meeting in Atlanta.
+- __*Oct.2025*__:  I presented the poster _"Geometric mechanics of reconfigurable structural systems"_ at the Society of Engineering Science 2025 Annual Technical Meeting Future Faculty Symposium in Atlanta.
+- __*Sep.2025*__:  Our [review paper](https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-abstract/77/5/050801/1217544/Kirigami-Engineering-The-Interplay-Between?redirectedFrom=fulltext) _"Kirigami engineering: The interplay between geometry and mechanics"_ was published in _Applied Mechanics Reviews_.
 - __*Jun.2025*__:  I received the Future Faculty Symposium Travel Award from the [2025 SES Annual Technical Meeting](https://sites.gatech.edu/2025ses/).
 - __*Apr.2025*__:  Princeton Engineering [reported](https://engineering.princeton.edu/news/2025/04/23/material-robot-its-metabot) our modular chiral origami metamaterials.
 - __*Apr.2025*__:  Nature [reported](https://www.nature.com/articles/d41586-025-01131-x) our modular chiral origami metamaterials.
 - __*Apr.2025*__:  Nature published a [video](https://www.nature.com/articles/d41586-025-01284-9) for our modular chiral origami metamaterials.
-- __*Apr.2025*__:  Our [research article](https://www.nature.com/articles/s41586-025-08851-0) "_Modular chiral origami metamaterials_" was published in _Nature_.
-- __*Apr.2025*__:  Our [research article](https://www.science.org/doi/10.1126/sciadv.ads5659) "_Shape and topology morphing of closed surfaces integrating origami and kirigami_" was published in _Science Advances_.
+- __*Apr.2025*__:  Our [research article](https://www.nature.com/articles/s41586-025-08851-0) _"Modular chiral origami metamaterials"_ was published in _Nature_.
+- __*Apr.2025*__:  Our [research article](https://www.science.org/doi/10.1126/sciadv.ads5659) _"Shape and topology morphing of closed surfaces integrating origami and kirigami"_ was published in _Science Advances_.
 - __*Jan.2025*__:  Princeton Engineering [reported](https://engineering.princeton.edu/news/2025/01/21/single-paper-sheet-engineers-make-dancing-structures-direct-light-and-sound) our _folded kirigami_.
 - __*Dec.2024*__:  PNAS published a [commentary](https://www.pnas.org/doi/full/10.1073/pnas.2420375121) on our _folded kirigami_.
-- __*Nov.2024*__:  Our [reserach article](https://www.pnas.org/doi/10.1073/pnas.2413370121) "_Folding a single high-genus surface into a repertoire of metamaterial functionalities_" was published in _Proceedings of the National Academy of Sciences_.
+- __*Nov.2024*__:  Our [reserach article](https://www.pnas.org/doi/10.1073/pnas.2413370121) _"Folding a single high-genus surface into a repertoire of metamaterial functionalities"_ was published in _Proceedings of the National Academy of Sciences_.
 - __*Apr.2024*__:  We made the [cover](https://royalsocietypublishing.org/toc/rspa/2024/480/2287) of _Proceedings of the Royal Society A_.
-- __*Apr.2024*__:  Our [reserach article](https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0956) "_Axisymmetric blockfold origami: a non-flat-foldable Miura variant with self-locking mechanisms and enhanced stiffness_" was published in _Proceedings of the Royal Society A_.
+- __*Apr.2024*__:  Our [reserach article](https://royalsocietypublishing.org/doi/10.1098/rspa.2023.0956) _"Axisymmetric blockfold origami: a non-flat-foldable Miura variant with self-locking mechanisms and enhanced stiffness"_ was published in _Proceedings of the Royal Society A_.
 
 <span class='anchor' id='research'></span>
 # Research 
