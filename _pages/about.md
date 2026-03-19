@@ -90,6 +90,12 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 <br/>
 
+- __*Invariant dual mechanics of tensegrity and origami*__
+
+&emsp;<img src="/images/duality.png" width="500">
+
+<br/>
+
 <span class='anchor' id='publications'></span>
 # Publications 
 
