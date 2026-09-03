@@ -18,9 +18,10 @@ redirect_from:
 <span class='anchor' id='about'></span>
 
 # Welcome to my personal website! 
-I'm a Postdoctoral Research Associate from [the Department of Civil and Environmental Engineering](https://cee.princeton.edu), [Princeton University](https://www.princeton.edu), where I work with [Prof. Glaucio H. Paulino](https://paulino.princeton.edu). My research vision is to advance the design and manufacture of reconfigurable structural systems whose properties are dominated by their forms. I aim to establish the geometric mechanics that enable theory-driven design, efficient simulation, reliable fabrication, and controlled actuation of reconfigurable structures and metamaterials, particularly those that are three-dimensional, freeform, and multiscale, and those inspired by origami, kirigami, and tensegrity.
+I'm a Postdoctoral Associate from [the department of civil, environmental, and geo- engineering](https://cse.umn.edu/cege), [University of Minnesota Twin Cities](https://twin-cities.umn.edu), where I work with [Prof. Hudson Borja da Rocha](https://cse.umn.edu/cege/directory/hudson-borja-da-rocha). My research vision is to advance the design and manufacture of reconfigurable structural systems whose properties are dominated by their forms. I aim to establish the geometric mechanics that enable theory-driven design, efficient simulation, reliable fabrication, and controlled actuation of reconfigurable structures and metamaterials, particularly those that are three-dimensional, freeform, and multiscale, and those inspired by origami, kirigami, and tensegrity.
 <span class='anchor' id='news'></span>
 # News
+- __*Sep.2026*__:  I moved to the University of Minnesota Twin Cities, where I will work as a Postdoctoral Associate in Prof. Hudson Borja da Rocha's lab.
 - __*Jun.2026*__:  Our [reserach article](https://www.sciencedirect.com/science/article/pii/S0022509626002322) _"A unified duality theory between self-stress and folding mechanisms"_ was published in _Journal of the Mechanics and Physics of Solids_.
 - __*Jun.2026*__:  I gave the [oral presentation](/images/EMI2026.png) _"Invariant dual mechanics of tensegrity and origami"_ at the Engineering Mechanics Institute Conference (EMI 2026) in Boulder.
 - __*Apr.2026*__:  Princeton Engineering [reported](https://engineering.princeton.edu/news/2026/04/29/hidden-math-link-helps-designers-build-fantastic-shapes) our work on invariant dual mechanics of tensegrity and origami.
@@ -145,7 +146,7 @@ I'm a Postdoctoral Research Associate from [the Department of Civil and Environm
 
 <span class='anchor' id='contact'></span>
 # Contact
-Email: [xd7191@princeton.edu](xd7191@princeton.edu)
+Email: [dang0371@umn.edu](dang0371@umn.edu)
 
 <br/>
 <br/>
