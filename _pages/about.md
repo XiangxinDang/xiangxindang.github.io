@@ -130,7 +130,8 @@ I'm a Postdoctoral Associate from [the department of civil, environmental, and g
 
 ### Employment
 
-* Postdoctoral Research Associate, Princeton University, 2023 - Present
+* Postdoctoral Associate, University of Minnesota, 2026 - Present
+* Postdoctoral Research Associate, Princeton University, 2023 - 2026
 * Postdoctoral Researcher, McGill University, 2022 - 2023
   
 ### Awards
